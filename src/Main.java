@@ -7,4 +7,9 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Main yaradildi!");
     }
+
+    public static void commit() {
+        System.out.println("commit");
+        System.out.println("Man");
+    }
 }
